@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "half=lower": [
+		{ "model": "block/peony/snowman_bottom" },
+		{ "model": "block/peony/snowman_bottom", "y": 90, "weight": 1 },
+		{ "model": "block/peony/snowman_bottom", "y": 180, "weight": 1 },
+		{ "model": "block/peony/snowman_bottom", "y": 270, "weight": 1 }
+	],
+        "half=upper": [
+		{ "model": "block/peony/snowman_top" },
+		{ "model": "block/peony/snowman_top", "y": 90, "weight": 1 },
+		{ "model": "block/peony/snowman_top", "y": 180, "weight": 1 },
+		{ "model": "block/peony/snowman_top", "y": 270, "weight": 1 }
+	]
+    }
+}

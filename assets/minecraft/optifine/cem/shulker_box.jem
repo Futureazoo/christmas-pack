@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "random/entity/shulker/shulker_red2.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-8, 11, -8, 16, 5, 16], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [0, 17, 3],
+					"rotate": [-20, 0, 0],
+					"boxes": [
+						{"coordinates": [-2, -2, -2, 4, 3, 5], "textureOffset": [46, 56]}
+					]
+				},
+				{
+					"id": "bone2",
+					"invertAxis": "xy",
+					"translate": [3, 17, 0],
+					"rotate": [-20, 90, 0],
+					"boxes": [
+						{"coordinates": [-2, -1.75, -3, 4, 3, 5], "textureOffset": [46, 56]}
+					]
+				},
+				{
+					"id": "bone3",
+					"invertAxis": "xy",
+					"translate": [0, 17, -3],
+					"rotate": [160, 0, 180],
+					"boxes": [
+						{"coordinates": [-2, -2, -2, 4, 3, 5], "textureOffset": [46, 56]}
+					]
+				},
+				{
+					"id": "bone4",
+					"invertAxis": "xy",
+					"translate": [-3, 17, 0],
+					"rotate": [0, -90, -20],
+					"boxes": [
+						{"coordinates": [-2, -1.75, -3, 4, 3, 5], "textureOffset": [46, 56]}
+					]
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-7, 0, -7, 14, 11, 14],
+					"uvNorth": [17, 41, 31, 52],
+					"uvEast": [1, 41, 15, 52],
+					"uvSouth": [49, 41, 63, 52],
+					"uvWest": [33, 41, 47, 52],
+					"uvUp": [31, 41, 17, 27],
+					"uvDown": [47, 27, 33, 41]
+				}
+			]
+		}
+	]
+}

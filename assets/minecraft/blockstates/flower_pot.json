@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+	{ "model": "minecraft:block/pot_mugs/candycane" },
+	{ "model": "minecraft:block/pot_mugs/candycane", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/candycane", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/candycane", "y": 270, "weight": 1  },
+        { "model": "minecraft:block/pot_mugs/creeper" },
+	{ "model": "minecraft:block/pot_mugs/creeper", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/creeper", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/creeper", "y": 270, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/flannel" },
+	{ "model": "minecraft:block/pot_mugs/flannel", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/flannel", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/flannel", "y": 270, "weight": 1  },
+        { "model": "minecraft:block/pot_mugs/gingerbread" },
+	{ "model": "minecraft:block/pot_mugs/gingerbread", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/gingerbread", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/gingerbread", "y": 270, "weight": 1  },
+        { "model": "minecraft:block/pot_mugs/present" },
+	{ "model": "minecraft:block/pot_mugs/present", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/present", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/present", "y": 270, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/spots" },
+	{ "model": "minecraft:block/pot_mugs/spots", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/spots", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/spots", "y": 270, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/snowflakes" },
+	{ "model": "minecraft:block/pot_mugs/snowflakes", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/snowflakes", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/snowflakes", "y": 270, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/snowman" },
+	{ "model": "minecraft:block/pot_mugs/snowman", "y": 90, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/snowman", "y": 180, "weight": 1  },
+	{ "model": "minecraft:block/pot_mugs/snowman", "y": 270, "weight": 1  }
+    ]
+  }
+}

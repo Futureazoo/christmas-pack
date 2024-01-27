@@ -1,0 +1,89 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "block/grass_block/grass_block",
+        "weight": 5000
+      },
+      {
+        "model": "block/grass_block/grass_block_ice_a",
+        "weight": 2
+      },
+      {
+        "model": "block/grass_block/grass_block_ice_b",
+        "weight": 2
+      },
+      {
+        "model": "block/grass_block/grass_block_tracks",
+        "weight": 4
+      },
+      {
+        "model": "block/grass_block/grass_block_sprout_a",
+        "weight": 50
+      },
+      {
+        "model": "block/grass_block/grass_block_sprout_b",
+        "weight": 50
+      },
+      {
+        "model": "block/grass_block/grass_block_sprout_c",
+        "weight": 50
+      },
+      {
+        "model": "block/grass_block/grass_block_sprout_d",
+        "weight": 50
+      },
+      {
+        "model": "block/grass_block/grass_block_sprout_e",
+        "weight": 50
+      },
+      {
+        "model": "block/grass_block/grass_block_sprout_f",
+        "weight": 50
+      },
+      {
+        "model": "block/grass_block/grass_block_flake_a",
+        "weight": 20
+      },
+      {
+        "model": "block/grass_block/grass_block_flake_b",
+        "weight": 20
+      },
+      {
+        "model": "block/grass_block/grass_block_flake_c",
+        "weight": 20
+      },
+      {
+        "model": "block/grass_block/grass_block_flake_d",
+        "weight": 20
+      },
+      {
+        "model": "block/grass_block/grass_block_flake_e",
+        "weight": 20
+      },
+      {
+        "model": "block/grass_block/grass_block_flake_f",
+        "weight": 20
+      },
+      {
+        "model": "block/grass_block/grass_block_snow_a",
+        "weight": 60
+      },
+      {
+        "model": "block/grass_block/grass_block_snow_b",
+        "weight": 60
+      },
+      {
+        "model": "block/grass_block/grass_block_snow_c",
+        "weight": 60
+      },
+      {
+        "model": "block/grass_block/grass_block_yellow",
+        "weight": 1
+      }
+    ],
+    "snowy=true": {
+      "model": "block/grass_block_snow"
+    }
+  }
+}

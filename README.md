@@ -1,6 +1,6 @@
 # ![img](https://i.imgur.com/JaoZZGt.png)
 
-# Christmas Pack
+# Default-Style Christmas Pack
 [Curseforge Link](https://www.curseforge.com/minecraft/texture-packs/new-default-style-christmas-pack)
 
 [Modrinth Link](https://modrinth.com/resourcepack/default-style-christmas-pack)
